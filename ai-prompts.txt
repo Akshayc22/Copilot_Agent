@@ -1,0 +1,77 @@
+# AI Development Prompts for Flutter Mobile/Web Apps
+
+## Project Setup Prompts
+- "Create a new Flutter project with both mobile and web support"
+- "Set up clean architecture structure for Flutter app"
+- "Configure state management using Provider/Bloc/Riverpod"
+- "Setup responsive design framework for cross-platform compatibility"
+
+## UI/UX Development Prompts
+- "Generate a responsive login screen with email/username and password fields"
+- "Create a bottom navigation bar with Material Design"
+- "Build a dashboard with cards and charts for data visualization"
+- "Design a profile screen with image picker and form validation"
+- "Generate a list view with pull-to-refresh and infinite scroll"
+- "Create adaptive layouts for mobile, tablet, and web"
+
+## API Integration Prompts
+- Implement the SSL pinning for each API request and device root checking functionality correctly.
+- "Implement REST API client with Dio and proper error handling"
+- "Create models and services for API data management"
+- "Setup authentication with JWT tokens and secure storage"
+- "Implement offline capability with local database (SQLite/Hive)"
+- "Add real-time data sync with WebSocket connection"
+
+## State Management Prompts
+- "Setup Provider pattern for app-wide state management"
+- "Implement Bloc pattern with proper event handling"
+- "Create Riverpod providers for data and UI state"
+- "Handle loading, error, and success states properly"
+- "Implement form validation with state management"
+
+## Testing Prompts
+- "Generate unit tests for service classes and repositories"
+- "Create widget tests for UI components"
+- "Write integration tests for complete user flows"
+- "Setup test mocks for API calls and dependencies"
+- "Implement golden tests for visual regression testing"
+
+## Performance & Optimization Prompts
+- "Optimize app performance with lazy loading and caching"
+- "Implement image optimization and progressive loading"
+- "Setup app analytics and crash reporting"
+- "Add performance monitoring and memory leak detection"
+- "Optimize build size and startup time"
+
+## Deployment Prompts
+- "Setup CI/CD pipeline for automated testing and deployment"
+- "Configure app signing for iOS and Android releases"
+- "Create deployment scripts for web hosting"
+- "Setup app store metadata and screenshots automation"
+- "Implement staged rollout and A/B testing"
+
+## Debug & Troubleshooting Prompts
+- "Debug Flutter app performance issues"
+- "Fix platform-specific bugs for iOS/Android"
+- "Resolve web compatibility issues"
+- "Troubleshoot build and compilation errors"
+- "Optimize app for different screen sizes and orientations"
+
+## Advanced Feature Prompts
+- "Implement push notifications with Firebase"
+- "Add biometric authentication (fingerprint/face ID)"
+- "Integrate camera functionality with image processing"
+- "Setup deep linking and navigation handling"
+- "Implement background tasks and sync"
+- "Add location services and maps integration"
+- "Create custom animations and transitions"
+
+## Code Quality Prompts
+- "Refactor code to follow SOLID principles"
+- "Implement proper error handling and logging"
+- "Setup code linting and formatting rules"
+- "Create documentation and code comments"
+- "Implement accessibility features (a11y)"
+
+## Unit test case prompt 
+- as per the project functionality create the automation unit test case and automation testing Configuration for ios and android device.

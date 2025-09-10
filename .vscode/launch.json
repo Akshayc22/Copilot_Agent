@@ -1,0 +1,31 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ai_copilot_agent",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ai_copilot_agent (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ai_copilot_agent (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "ai_copilot_agent (web)",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "-d",
+                "chrome"
+            ]
+        }
+    ]
+}

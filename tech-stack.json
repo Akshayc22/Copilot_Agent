@@ -1,0 +1,46 @@
+{
+    "name": "AI_Copilot_Flutter_Agent",
+    "version": "1.0.0",
+    "description": "AI-driven Flutter mobile and web application development workspace",
+    "frameworks": {
+        "primary": "Flutter",
+        "mobile": [
+            "Flutter",
+            "Dart"
+        ],
+        "web": [
+            "Flutter Web",
+            "Dart"
+        ],
+        "platforms": [
+            "iOS",
+            "Android",
+            "Web"
+        ]
+    },
+    "features": {
+        "ai_agent": true,
+        "cross_platform": true,
+        "responsive_design": true,
+        "api_integration": true,
+        "automated_testing": true,
+        "deployment_automation": true
+    },
+    "development_environment": {
+        "ide": "VS Code",
+        "ai_assistant": "GitHub Copilot Business",
+        "extensions": [
+            "Dart-Code.dart-code",
+            "Dart-Code.flutter",
+            "GitHub.copilot",
+            "GitHub.copilot-chat"
+        ]
+    },
+    "state_management": "provider",
+    "architecture": "clean_architecture",
+    "testing": {
+        "unit_tests": true,
+        "widget_tests": true,
+        "integration_tests": true
+    }
+}
